@@ -1,0 +1,47 @@
+﻿<Window x:Name="TiffToPDF" x:Class="TiffToPDF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TiffToPDF"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        mc:Ignorable="d"
+        Title="TiffToPDF" Height="592.062" Width="889.173" Background="White" WindowStyle="ToolWindow">
+    <Grid x:Name="pan">
+        <Button x:Name="btn_browse" Content="Browse" HorizontalAlignment="Left" Margin="768,41,0,0" VerticalAlignment="Top" Width="75" Click="btn_browse_Click">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="tb_browse" HorizontalAlignment="Left" Height="23" Margin="49,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="669" IsReadOnly="True"/>
+        <Button x:Name="btn_convert" Content="Convert" HorizontalAlignment="Left" Margin="768,235,0,0" VerticalAlignment="Top" Width="75" Click="btn_convert_Click">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lbl" Content="" HorizontalAlignment="Left" Margin="213,72,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.089,0.794"/>
+        <RichTextBox x:Name="rtb_log" HorizontalAlignment="Left" Height="437" Margin="55,120,0,0" VerticalAlignment="Top" Width="663"  VerticalScrollBarVisibility="Visible">
+            <FlowDocument>
+                <Paragraph>
+                    <Run/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="27" Margin="829,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="35" Text="100" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextChanged="textBox_TextChanged" IsManipulationEnabled="True" MaxLength="3"/>
+        <Label x:Name="label" Content="Compression:" HorizontalAlignment="Left" Margin="742,123,0,0" VerticalAlignment="Top" Height="29" Width="81" RenderTransformOrigin="0.5,0.5"/>
+        <Label x:Name="label1" Content="0- best" HorizontalAlignment="Left" Margin="749,148,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" FontSize="9">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.884"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label x:Name="label2" Content="100 - no compression" HorizontalAlignment="Left" Margin="747,166,0,0" VerticalAlignment="Top" FontSize="9"/>
+        <Label x:Name="label3" Content="Files converted:" HorizontalAlignment="Left" Margin="718,268,0,0" VerticalAlignment="Top" FontSize="9"/>
+        <Image x:Name="image1" HorizontalAlignment="Left" Height="100" Margin="747,337,0,0" VerticalAlignment="Top" Width="100"  />
+
+    </Grid>
+</Window>

@@ -1,0 +1,35 @@
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\bin\Debug\TiffToPDF.exe.config
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF.csprojResolveAssemblyReference.cache
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\obj\Debug\MainWindow.g.cs
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\obj\Debug\App.g.cs
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF_MarkupCompile.cache
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF_MarkupCompile.lref
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\bin\Debug\TiffToPDF.exe
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\bin\Debug\TiffToPDF.pdb
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\obj\Debug\MainWindow.baml
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF.g.resources
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF.Properties.Resources.resources
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF.csproj.GenerateResource.Cache
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF.exe
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF.pdb
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\bin\Debug\PdfSharp.dll
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\bin\Debug\de\PdfSharp.resources.dll
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\bin\Debug\WpfAnimatedGif.dll
+c:\users\sim\documents\visual studio 2015\Projects\TiffToPDF\TiffToPDF\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\bin\Debug\TiffToPDF.exe.config
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF.exe
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF.pdb
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\bin\Debug\TiffToPDF.exe
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\bin\Debug\TiffToPDF.pdb
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF.csprojResolveAssemblyReference.cache
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\obj\Debug\MainWindow.g.cs
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\obj\Debug\App.g.cs
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF_MarkupCompile.cache
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF_MarkupCompile.lref
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\obj\Debug\MainWindow.baml
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF.g.resources
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF.Properties.Resources.resources
+C:\Users\Sim\Desktop\git_\TiffToPDF\TiffToPDF\obj\Debug\TiffToPDF.csproj.GenerateResource.Cache
